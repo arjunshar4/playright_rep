@@ -9,4 +9,4 @@ for(let j=1;j <=i;j++){
 ds+="\n";
 }
 console.log(ds);
-git pull
+//checking gitpull
